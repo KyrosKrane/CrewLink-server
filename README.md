@@ -23,9 +23,11 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+* [Environment Variables](#environment-variables)
+* [Deploy to Heroku](#deploy-to-heroku)
 * [Docker Quickstart](#docker-quickstart)
   * [Building the Docker Image](#building-the-docker-image)
-* [Getting Started](#getting-started)
+* [Manual Installation](#manual-installation)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Contributing](#contributing)
